@@ -11,3 +11,7 @@ Likely redundant: Perhaps a way to add Google account (similarily with Ubuntu's 
 Ubuntu's reporting unnecessarily (as it didn't use to until early to mid 2000s) needeth account for to send reports; a similar correlation (as Android doth in their settings) to point certain .apk formats needeth Google signin.
 
 Disabling the codings that illegally & unnecessarily restrict/retard HDMI use via USBs. Elder devices still hath such functions; more than nonsensical to retard current devices....
+
+<b>2026147</b>
+Hopefully noth of plagiarism; yet still needeth addressment. Android violating regulations/policies/laws/etc....; Apple also.
+referencing https://github.com/woheller69/FreeDroidWarn; impending countdown regarding many of our desired apps with[out] knoweth which affected (a list of community supporters about their site), many of above mentioned (reduntant) licenses violated within their own existence.
